@@ -1,6 +1,7 @@
 SynergyChain White Paper
 
 Introduction
+
 SynergyChain is an innovative blockchain platform entirely developed in Java, aiming to provide a fast and secure bridge for Web2 applications and users to step into the Web3 era. By fully leveraging the advantages of the Java language and its vast developer community, SynergyChain simplifies the barriers to using blockchain technology and promotes the adoption of decentralized applications (DApps).
 
 
