@@ -756,7 +756,7 @@ By following the above detailed development steps and technical details, Synergy
 November 2024: SynergyChain project officially launched; architecture and functionalities determined.
 December 2024 – January 2025: Optimize Java Virtual Machine.
 February 2025 – April 2025: Develop Java Smart Contract (JSC) framework and SDK.
- May 2025 – June 2025: Implement consensus mechanism, data storage management, security, and privacy protection.
+May 2025 – June 2025: Implement consensus mechanism, data storage management, security, and privacy protection.
 July 2025 – August 2025: Deploy testnet, conduct code security audit, hold bug bounty contests.
 September 2025 – October 2025: Code optimization, marketing, mainnet launch, hackathon competitions.
 
