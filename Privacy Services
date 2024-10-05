@@ -1,0 +1,18 @@
+ Privacy Services and Technical Support
+
+As time goes on, users are becoming increasingly concerned about privacy and data security. However, many platforms, overwhelmed by their massive databases, fail to address these privacy concerns adequately.
+
+At SpurNet, we prioritize user privacy by implementing decentralized identity (DID) and third party KYC verification to ensure the safety of user data and prevent privacy breaches.
+
+ Decentralized Identity (DID)
+· Users generate a decentralized identity (DID), which is managed and controlled by the users themselves.
+· Identity information is stored either on the user's device or on a distributed network, ensuring privacy and security.
+· For transactions and usage, users only need to provide their DID for authentication, without sharing personal data.
+
+ Third·Party KYC Verification
+· In situations that require KYC verification, SpurNet directs users to a third·party partner for identity verification.
+· After successful verification, only the encrypted KYC result is shared with SpurNet, while the third party manages and stores the KYC data, ensuring that user information remains secure.
+
+By integrating DID and third·party KYC verification, users maintain full control over their personal identity information, safeguarding their privacy and addressing the privacy vulnerabilities of traditional Web2 models.
+
+SpurNet's privacy protection policy promotes the decentralization of user data, imposing strict measures to prevent data misuse and fraud.
